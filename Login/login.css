@@ -1,0 +1,11 @@
+html{
+    background-image: url(images/sam-wall.jpg);
+    background-size: cover;
+}
+
+.log-panel{
+    width: 10cm;
+    height: 18cm;
+    background: linear-gradient(to left, #feb6927a, #ea545475);
+    float: right;
+ }
