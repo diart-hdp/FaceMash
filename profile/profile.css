@@ -1367,3 +1367,101 @@ h1, h2, p, a, span{
 						background: #e64c65;
 						border-radius: 100%;
 					}
+
+					.entbox{
+						display: flex;
+						justify-content: center;
+						margin-top: 3cm;
+					}
+
+					.menu-ent{
+						border-radius: 20px;
+						width: 25cm;
+						height: 2cm;
+						text-align: center;
+						background: #363f61;
+
+					}
+					.menu-ent a{
+						margin-bottom: 20px;
+						margin-left: 20px;
+						position: relative;
+						top: 25px;
+						left: 20px;
+						font-size: 19px;
+						text-decoration: none;
+					}
+					.menu-ent a:hover{
+						color: #0F9295;
+					}
+					.menu-box{
+					display: flex;
+					justify-content: center;
+					position: relative;
+					left: 13cm;
+					margin-top: 1cm;
+					width: 7cm;
+					height: 8.5cm;
+					border-radius: 20px;
+					background: #363f61;
+					
+					}
+					.menu-box .tx{
+						width: 7cm;
+						height: 50px;
+						border-radius: 20px 20px 0px 0px;
+						background: #0F9295;
+						text-align: center;
+					}
+					.menu-box button{
+						position: relative;
+						top: 15px;
+						width: 7cm;
+						border: thick;
+						height: 55px;
+						background: transparent;
+						color: white;
+						font-size: 16px;
+						margin-top: 0px;
+					}
+					.menu-box button:hover{
+						background: #16417E;
+					}
+					.prof{
+						display: flex;
+					justify-content: center;
+					position: relative;
+					left: 22cm;
+					width: 10cm;
+					top: -8.5cm;
+					height: 8.5cm;
+					border-radius: 20px;
+					background: #363f61;
+					}
+					.prof img{
+						width: 3.5cm;
+						height: 3.5cm;
+						border-radius: 50%;
+						position: relative;
+						left: 3.5cm;
+						margin-top: 8px;
+						text-align: center;
+					}
+
+					.prof h1{
+						position: relative;
+						left:-20px;
+						margin-top: 4cm;
+					}
+					.prof p{
+						position:relative;
+						top: 200px;
+						left: -3.2cm;
+					}
+					.prof button{
+						top:6cm;
+						left: -4cm;
+						position: relative;
+						width: 7cm;
+						height: 1cm;
+					}
